@@ -34,7 +34,7 @@ Explore the challenges available in this repository:
 
 ...
 
-Feel free to take on these challenges, contribute your own, and enjoy the learning experience!
+Feel free to take on these challenges, contribute your own, and enjoy the learning experience! 
 
 Happy coding!
 ```
