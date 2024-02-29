@@ -28,7 +28,7 @@ We encourage contributions from the community! If you have a PHP challenge that 
 
 Explore the challenges available in this repository:
 
-1. [Challenge 1: Your Challenge Title](./string-reverse.php)
+1. [Challenge 1: Reverse String](./string-reverse.php)
    - Description: In this challenge we will reverse the string in php with 5 different methods.
    - Difficulty: Easy/Medium/Hard
 
