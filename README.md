@@ -3,6 +3,7 @@
 # PHP Challenge Accepted
 
 Welcome to the PHP Challenge Accepted repository! This repository is designed to provide you with interesting and challenging PHP-related tasks to enhance your skills and knowledge.
+```
 
 ## Getting Started
 
