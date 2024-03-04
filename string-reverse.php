@@ -15,7 +15,7 @@
 
         echo "<b>1. Using strrev() Function:</b></br>";
         echo "Original string is  : $str </br>";
-        echo "Reversed String is  : $reversedString</br></br>";
+        echo "Reversed string is  : $reversedString</br></br>";
 
     // 2. Solution:
         function reverseString($str){
@@ -30,7 +30,7 @@
 
         echo "<b>2. Using Loop and string manipulation:</b></br>";
         echo "Original string is  : $str </br>";
-        echo "Reversed String is  : $reversedString</br></br>";
+        echo "Reversed string is  : $reversedString</br></br>";
 
     // 3. Solution:
         $str = "Hello";
@@ -40,7 +40,7 @@
 
         echo "<b>3. Using implode() and str_split():</b></br>";
         echo "Original string is  : $str </br>";
-        echo "Reversed String is  : $reversedString</br></br>";
+        echo "Reversed string is  : $reversedString</br></br>";
 
      // 4. Solution:
         $str = "Hello";
@@ -50,7 +50,7 @@
 
         echo "<b>4. Using array_reverse() and join():</b></br>";
         echo "Original string is  : $str </br>";
-        echo "Reversed String is  : $reversedString</br></br>";
+        echo "Reversed string is  : $reversedString</br></br>";
 
     // 5. Solution:
         function reverseStringRecursive($str){
@@ -66,4 +66,4 @@
 
         echo "<b>5. Using Recursion:</b></br>";
         echo "Original string is  : $str </br>";
-        echo "Reversed String is  : $reversedString</br></br>";
+        echo "Reversed string is  : $reversedString</br></br>";
