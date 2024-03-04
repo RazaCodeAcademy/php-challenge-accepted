@@ -1,8 +1,15 @@
 <?php
-    // Youtube: @raza_code_academy | Instagram: raza_code_academy
+    /*
+    |--------------------------------------------------------------------------
+    | PHP CHALLENGE ACCEPTED - REVERSE STRING
+    |--------------------------------------------------------------------------
+    | Stand With Palestine | Free Palestine | Save Gaza
+    |
+    | Youtube: @raza_code_academy | Instagram: raza_code_academy
+    |
+    | Find Reverse String With 5 Different Methods In PHP.
+    */
   
-    // Reverse String With 5 Methods In PHP.
-
     // 1. Using strrev() Function:
     // 2. Using Loop and String Manipulation:
     // 3. Using implode() and str_split():
