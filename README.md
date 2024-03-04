@@ -33,6 +33,9 @@ Explore the challenges available in this repository:
    - Description: In this challenge we will reverse the string in php with 5 different methods.
    - Difficulty: Easy/Medium/Hard
 
+2. [Challenge 2: Find Factorial](./find-factorial.php)
+   - Description: In this challenge we will find the factorial in php with 4 different methods.
+   - Difficulty: Easy/Medium/Hard
 ...
 
 Feel free to take on these challenges, contribute your own, and enjoy the learning experience! 
